@@ -1,4 +1,8 @@
 ​
+
+![image](https://github.com/123han12/lab/assets/103579385/e345590e-f4f8-4044-9bff-eb7a9788ad34)
+
+
 [虚拟机镜像安装的版本](https://old-releases.ubuntu.com/releases/16.04.1/) 这个页面中的
 ```
 ubuntu-16.04-desktop-i386.iso
