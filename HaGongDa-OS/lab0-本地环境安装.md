@@ -1,5 +1,6 @@
 ​
 
+**操作系统启动流程**
 ![image](https://github.com/123han12/lab/assets/103579385/e345590e-f4f8-4044-9bff-eb7a9788ad34)
 
 
