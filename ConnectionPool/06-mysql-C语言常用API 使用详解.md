@@ -1,0 +1,1 @@
+[MYSQL常用C语言API]([MySQL API 使用详解 | 爱编程的大丙 (subingwen.cn)](https://subingwen.cn/mysql/mysql-api/?highlight=mysql))
