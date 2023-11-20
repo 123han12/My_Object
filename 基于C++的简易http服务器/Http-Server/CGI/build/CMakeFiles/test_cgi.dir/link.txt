@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test_cgi.dir/son.cpp.o -o /home/hsa/httpServer/Http-Server/bin/wwwroot/test_cgi 

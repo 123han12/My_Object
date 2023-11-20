@@ -1,0 +1,3 @@
+/home/hsa/httpServer/Http-Server/CGI/build/CMakeFiles/test_cgi.dir
+/home/hsa/httpServer/Http-Server/CGI/build/CMakeFiles/edit_cache.dir
+/home/hsa/httpServer/Http-Server/CGI/build/CMakeFiles/rebuild_cache.dir

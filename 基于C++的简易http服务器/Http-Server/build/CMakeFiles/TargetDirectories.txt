@@ -1,0 +1,3 @@
+/home/hsa/httpServer/Http-Server/build/CMakeFiles/httpserver.dir
+/home/hsa/httpServer/Http-Server/build/CMakeFiles/edit_cache.dir
+/home/hsa/httpServer/Http-Server/build/CMakeFiles/rebuild_cache.dir
