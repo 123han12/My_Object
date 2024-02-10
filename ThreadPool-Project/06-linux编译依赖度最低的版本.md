@@ -4,10 +4,6 @@
 
 + 将各种类，比如`Any , Semaphore , Task  , Thread , Result , ThreadPool  ` 进行分离，放到不同的头文件和`.cpp`文件中，==将各个模块之间的编译依赖度==尽可能的降低。
 
-
-
-
-
 `CmakeLists.txt`
 
 ```cmake
